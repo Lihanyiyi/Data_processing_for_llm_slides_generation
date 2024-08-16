@@ -1,0 +1,270 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Barron%
+\ \BBA {} Ishii%
+}{%
+Barron%
+\ \BBA {} Ishii%
+}{%
+{\protect \APACyear {1989}}%
+}]{%
+barron1989bellman}
+\APACinsertmetastar {%
+barron1989bellman}%
+\begin{APACrefauthors}%
+Barron, E.%
+\BCBT {}\ \BBA {} Ishii, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Bellman equation for minimizing the maximum cost.} {The bellman equation for minimizing the maximum cost.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{NONLINEAR ANAL. THEORY METHODS APPLIC.}{13}{9}{1067--1090}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hester%
+\ \protect \BOthers {.}}{%
+Hester%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+hester2018deep}
+\APACinsertmetastar {%
+hester2018deep}%
+\begin{APACrefauthors}%
+Hester, T.%
+, Vecerik, M.%
+, Pietquin, O.%
+, Lanctot, M.%
+, Schaul, T.%
+, Piot, B.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep q-learning from demonstrations} {Deep q-learning from demonstrations}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the AAAI conference on artificial intelligence} {Proceedings of the aaai conference on artificial intelligence}\ (\BVOL~32).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lefebvre%
+, Summerfield%
+\BCBL {}\ \BBA {} Bogacz%
+}{%
+Lefebvre%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+lefebvre2022normative}
+\APACinsertmetastar {%
+lefebvre2022normative}%
+\begin{APACrefauthors}%
+Lefebvre, G.%
+, Summerfield, C.%
+\BCBL {}\ \BBA {} Bogacz, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A normative account of confirmation bias during reinforcement learning} {A normative account of confirmation bias during reinforcement learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural computation}{34}{2}{307--337}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lv%
+, Wang%
+, Cheng%
+\BCBL {}\ \BBA {} Duan%
+}{%
+Lv%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+lv2019stochastic}
+\APACinsertmetastar {%
+lv2019stochastic}%
+\begin{APACrefauthors}%
+Lv, P.%
+, Wang, X.%
+, Cheng, Y.%
+\BCBL {}\ \BBA {} Duan, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Stochastic double deep Q-network} {Stochastic double deep q-network}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Access}{7}{}{79446--79454}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Palminteri%
+}{%
+Palminteri%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+palminteri2023choice}
+\APACinsertmetastar {%
+palminteri2023choice}%
+\begin{APACrefauthors}%
+Palminteri, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Choice-confirmation bias and gradual perseveration in human reinforcement learning.} {Choice-confirmation bias and gradual perseveration in human reinforcement learning.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Behavioral Neuroscience}{137}{1}{78}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Palminteri%
+, Lefebvre%
+, Kilford%
+\BCBL {}\ \BBA {} Blakemore%
+}{%
+Palminteri%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+palminteri2017confirmation}
+\APACinsertmetastar {%
+palminteri2017confirmation}%
+\begin{APACrefauthors}%
+Palminteri, S.%
+, Lefebvre, G.%
+, Kilford, E\BPBI J.%
+\BCBL {}\ \BBA {} Blakemore, S\BHBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Confirmation bias in human reinforcement learning: Evidence from counterfactual feedback processing} {Confirmation bias in human reinforcement learning: Evidence from counterfactual feedback processing}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLoS computational biology}{13}{8}{e1005684}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peters%
+}{%
+Peters%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+confirmation}
+\APACinsertmetastar {%
+confirmation}%
+\begin{APACrefauthors}%
+Peters, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {What Is the Function of Confirmation Bias?} {What is the function of confirmation bias?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Erkenntnis}{87}{3}{1351--1376}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s10670-020-00252-1} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10670-020-00252-1} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rosenbaum%
+, Grassie%
+\BCBL {}\ \BBA {} Hartley%
+}{%
+Rosenbaum%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+RSTD}
+\APACinsertmetastar {%
+RSTD}%
+\begin{APACrefauthors}%
+Rosenbaum, G\BPBI M.%
+, Grassie, H\BPBI L.%
+\BCBL {}\ \BBA {} Hartley, C\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{jan}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Valence biases in reinforcement learning shift across adolescence and modulate subsequent memory} {Valence biases in reinforcement learning shift across adolescence and modulate subsequent memory}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{eLife}{11}{}{e64620}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.7554/eLife.64620} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.7554/eLife.64620} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watkins%
+\ \BBA {} Dayan%
+}{%
+Watkins%
+\ \BBA {} Dayan%
+}{%
+{\protect \APACyear {1992}}%
+}]{%
+watkins1992q}
+\APACinsertmetastar {%
+watkins1992q}%
+\begin{APACrefauthors}%
+Watkins, C\BPBI J.%
+\BCBT {}\ \BBA {} Dayan, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Q-learning} {Q-learning}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Machine learning}{8}{}{279--292}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zimper%
+\ \BBA {} Ludwig%
+}{%
+Zimper%
+\ \BBA {} Ludwig%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+baye}
+\APACinsertmetastar {%
+baye}%
+\begin{APACrefauthors}%
+Zimper, A.%
+\BCBT {}\ \BBA {} Ludwig, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On attitude polarization under Bayesian learning with non-additive beliefs} {On attitude polarization under bayesian learning with non-additive beliefs}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Risk and Uncertainty}{39}{2}{181--212}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s11166-009-9074-0} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11166-009-9074-0} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
